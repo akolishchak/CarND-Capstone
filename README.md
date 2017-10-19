@@ -4,7 +4,7 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 * Alfred Free (xuanyuanzhe at gmail.com)
 * Shehjar Kaul (kaul.shehjar at gmail.com)
 * Andrey Kolishchak (andrey.kolishchak at gmail.com)
-* Mika Qvist (miqqis at gmail.com)
+* Mika Qvist (mika.k.qvist at gmail.com)
 
 
 ### Native Installation
